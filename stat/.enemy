@@ -1,0 +1,15 @@
+/---------Enemy's stat------------\
+| Each ':' represent another the  |
+| begining of a different stat.   |
+|                                 |
+| In the order :                  |
+| 1. Name                         |
+| 2. Health Range                 |
+| 3. Dmg Range                    |
+| 4. Xp gain                      |
+| 5. Gold gain                    |
+| 6. Enemy type (ref Sprite)      |
+| 7. Sprite width (all sprite)    |
+| 8. Sprite height (all sprite)   |
+| 9. Sprite width (one animation) |
+\---------------------------------/
